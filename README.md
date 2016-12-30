@@ -11,4 +11,4 @@
 
 Name | By | Link
 --- | --- | ---
-SteamAuth | `SmItH197` | https://github.com/YaBoyTony/steam-php-chat/edit/master/README.md
+SteamAuth | `SmItH197` | https://github.com/SmItH197/SteamAuthentication
