@@ -1,13 +1,16 @@
 <!-- CHAT PART PUT THIS WHERE EVER  -->
-      <div id="" class="container">
-<div class="container">
-  <div style="" class="row">
-    <div class="input-field col s12 m4 l2">
-      <input style="color: white;" value="1" id="first_name2" type="text" class="validate">
-      <label class="active" for="first_name2">Amount</label>
-    </div>
-  </div>
-  <script>
+    <body onload="setInterval('chat.update()', 500)" bgcolor="#34495e";>
+<div style="">
+<h5 style="color: white;">Chat</h5>
+    <p id="name-area"></p>
+    
+    <div id="chat-wrap"><div id="chat-area"></div></div>
+    
+    <form id="send-message-area">
+        <textarea id="sendie" maxlength = '100'></textarea>
+    </form></div>
+
+<!--  ------------ END ---------------->
 
 
 <script type="text/javascript" src="chat.js"></script>
